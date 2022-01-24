@@ -1,0 +1,18 @@
+.options
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    /* padding: 5px 2px 5px 2px; */
+}
+.options:hover
+{
+    background-color: rgb(184, 171, 171);
+    border-radius:10px;
+    padding: 0;
+}
+.options h4
+{
+    margin-left: 10px;
+}
